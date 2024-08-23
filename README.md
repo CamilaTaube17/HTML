@@ -21,4 +21,10 @@ direction para a direção e scrollamount para a velocidade do texto. <br>
 <br>
 Exemplo 07 - Aprendemos como inserir imagem no site com a tag &lt;img&gt;  atribuimos align para posição da imagem, witdh para tamanho e title para legenda. <br>
 <br>
-Exemplo 08 - 
+Exemplo 08 - Utilizamos alguns detalhes que podem ser usados com a imagem do site, por exemplo espaçamento para texto ao redor da imagem usando os atributos HSPACE e VSPACE, e colocamos borda na imagem 
+<br>
+Exemplo 09 - <br>
+<br>
+Exemplo 10 - Vimos como inserir vídeos na página web e aúdio, também criamos um botão voltar que direciona a outra página aleatória.
+<br>
+Exemplo 11 - Notações especiais de &reg; Marca Registrada e &copy; Direitos Autorais, 
