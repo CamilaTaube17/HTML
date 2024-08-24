@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Aprendendo+html!;" /> <br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CamilaTaube-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </h1> 
 
 Neste repositório temos atividades em html puro feito em sala de aula no curso técnico de desenvolvimento de sistemas integrado ao ensino médio.
@@ -25,6 +25,6 @@ Exemplo 08 - Utilizamos alguns detalhes que podem ser usados com a imagem do sit
 <br>
 Exemplo 09 - <br>
 <br>
-Exemplo 10 - Vimos como inserir vídeos na página web e aúdio, também criamos um botão voltar que direciona a outra página aleatória.
+Exemplo 10 - Vimos como inserir vídeos na página web e aúdio, também criamos um botão voltar que direciona a outra página aleatória. <br>
 <br>
-Exemplo 11 - Notações especiais de &reg; Marca Registrada e &copy; Direitos Autorais, 
+Exemplo 11 - Notações especiais de &reg; Marca Registrada e &copy; Direitos Autorais, utilizamos o site symbl para iserir emojis na página, e aprendemos <&lt &gt> tags usadas para ensinar linguagem html
