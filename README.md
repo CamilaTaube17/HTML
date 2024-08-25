@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Aprendendo+html!;" /> <br>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&color=31F722&vCenter=true&width=500&height=70&duration=4000&lines=Aprendendo+html!;" /> <br>
   <img align="center" alt="CamilaTaube-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </h1> 
 
@@ -43,7 +43,7 @@ exe_FORM_novidades - Um pequeno exemplo de formulário. <br>
 <br>
 exe_FieldSet - Usamos a tag &lt;fieldset&gt; dentro da tag &lt;form&gt; para algumas informações de usuário (peso, altura e data). <br>
 <br>
-exe_frame - A tag &lt;frame&gt; ara definir uma janela específica (quadro) dentro de um  &lt;frameset&gt;. <br>
+exe_frame - A tag &lt;frame&gt; ara definir uma janela específica (quadro) dentro de um  &lt;frameset&gt; <br>
 <br>
 exe_frame2 - Desafio dado pelo professor pra garantir que tinhamos aprendido frameset. <br>
 <br>
@@ -51,7 +51,7 @@ exe_iFrame - Use a tag  &lt;iframe&gt; para incorporar outro documento dentro do
 <br>
 exe_mapeamento - Utiizamos o aplicativo Mapedit para definir as coordenadas da imagem assim direcionando para outra página. <br>
 <br>
-exe_mapeamento2 - Treinamos mapeamento <br>
+exe_mapeamento2 - Treinamos mapeamento. <br>
 <br>
 exe_relogio.html - Usamos um site de relógios Virtuais, colocamos o link na tag &lt;iframe&gt; para rodar na página. <br>
 <br>
@@ -59,6 +59,6 @@ exe_tabela.html - Criação de uma tabela em HTML puro. <br>
 <br>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Valeu!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&color=31F722&vCenter=true&width=500&height=70&duration=4000&lines=Valeu!;" />
 </h1>
 
