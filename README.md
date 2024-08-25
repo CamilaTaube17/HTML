@@ -27,35 +27,35 @@ Exemplo 09 - <br>
 <br>
 Exemplo 10 - Vimos como inserir vídeos na página web e aúdio, também criamos um botão voltar que direciona a outra página aleatória. <br>
 <br>
-Exemplo 11 - Notações especiais de &reg; Marca Registrada e &copy; Direitos Autorais, utilizamos o site symbl para iserir emojis na página, e aprendemos <&lt &gt> tags usadas para ensinar linguagem html <br>
+Exemplo 11 - Notações especiais de &reg; Marca Registrada e &copy; Direitos Autorais, utilizamos o site symbl para iserir emojis na página, e aprendemos <&lt &gt> tags usadas para ensinar linguagem html. <br>
 <br>
-Exemplo 12 - Lista ordenadas e não ordenada e seus estilos com o atributo type(circle, square, i, a, disc) <br>
+Exemplo 12 - Lista ordenadas e não ordenada e seus estilos com o atributo type(circle, square, i, a, disc). <br>
 <br>
 Exemplo 13 - Link Externo, levando o usuário de uma página para outra com  &lt;a href="" /a&gt; <br>
 <br>
-Exemplo 14 - Link Desvio, levando o usuário para uma página do próprio sie tendo um botão voltar <br>
+Exemplo 14 - Link Desvio, levando o usuário para uma página do próprio sie tendo um botão voltar. <br>
 <br>
 Exemplo 15 - Link para Email <br>
 <br>
 Exemplo 16 - Links Externos <br>
 <br>
-exe_FORM_novidades - Um pequeno exemplo de formulário <br>
+exe_FORM_novidades - Um pequeno exemplo de formulário. <br>
 <br>
-exe_FieldSet - Usamos a tag &lt;fieldset&gt; dentro da tag &lt;form&gt; para algumas informações de usuário (peso, altura e data) <br>
+exe_FieldSet - Usamos a tag &lt;fieldset&gt; dentro da tag &lt;form&gt; para algumas informações de usuário (peso, altura e data). <br>
 <br>
-exe_frame - A tag &lt;frame&gt; ara definir uma janela específica (quadro) dentro de um  &lt;frameset&gt; <br>
+exe_frame - A tag &lt;frame&gt; ara definir uma janela específica (quadro) dentro de um  &lt;frameset&gt;. <br>
 <br>
-exe_frame2 - Desafio dado pelo professor pra garantir que tinhamos aprendido frameset <br>
+exe_frame2 - Desafio dado pelo professor pra garantir que tinhamos aprendido frameset. <br>
 <br>
-exe_iFrame - Use a tag  &lt;iframe&gt; para incorporar outro documento dentro do documento HTML atual <br>
+exe_iFrame - Use a tag  &lt;iframe&gt; para incorporar outro documento dentro do documento HTML atual. <br>
 <br>
-exe_mapeamento - Utiizamos o aplicativo Mapedit para definir as codenadas da imagem assim direcionando para outra página. <br>
+exe_mapeamento - Utiizamos o aplicativo Mapedit para definir as coordenadas da imagem assim direcionando para outra página. <br>
 <br>
 exe_mapeamento2 - Treinamos mapeamento <br>
 <br>
-exe_relogio.html - Usamos um site de relógios Virtuais, colocamos o link na tag &lt;iframe&gt; para rodar na página <br>
+exe_relogio.html - Usamos um site de relógios Virtuais, colocamos o link na tag &lt;iframe&gt; para rodar na página. <br>
 <br>
-exe_tabela.html - Criação de uma tabela em HTML puro <br>
+exe_tabela.html - Criação de uma tabela em HTML puro. <br>
 <br>
 
 <h1 align="center">
